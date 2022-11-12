@@ -12,3 +12,5 @@ mae time series https://arxiv.org/abs/2210.02199
 https://openreview.net/forum?id=9AuIMiZhkL2
 
 https://arxiv.org/abs/2205.09113
+
+https://proceedings.mlr.press/v162/drouin22a/drouin22a.pdf
