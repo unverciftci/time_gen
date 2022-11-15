@@ -16,3 +16,9 @@ https://arxiv.org/abs/2205.09113
 https://proceedings.mlr.press/v162/drouin22a/drouin22a.pdf
 
 https://arxiv.org/pdf/2202.01381.pdf
+
+https://arxiv.org/pdf/2211.02590.pdf
+
+http://proceedings.mlr.press/v139/rasul21a.html
+
+
