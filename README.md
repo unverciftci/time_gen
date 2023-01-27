@@ -25,5 +25,7 @@ https://dl.acm.org/doi/abs/10.1145/3512290.3528740
 
 https://link.springer.com/chapter/10.1007/978-3-031-16564-1_37
 
+https://github.com/MAZiqing/FEDformer
+
 
 
