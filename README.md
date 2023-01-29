@@ -27,5 +27,6 @@ https://link.springer.com/chapter/10.1007/978-3-031-16564-1_37
 
 https://github.com/MAZiqing/FEDformer
 
+https://proceedings.mlr.press/v151/tonekaboni22a/tonekaboni22a.pdf
 
-
+https://arxiv.org/pdf/2210.03675.pdf
